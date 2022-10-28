@@ -1,6 +1,6 @@
 [![sensores.jpg](https://i.postimg.cc/L6wBTd77/sensores.jpg)](https://postimg.cc/mt3HLnTN)
 
-# Practica de Semana 6 (Grupo 3)
+# Practica de Semana 7 (Grupo 3)
 
 
 ## Estructura :
@@ -11,7 +11,7 @@
 
 + 1-F.pdf BREVE DESCRIPION DEL ESQUEMATICO
 
-+ Lore-grupo3_f.pdsprj
++ Lore-grupo3_f.pdsprj: simulacion
 
 
 #
